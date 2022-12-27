@@ -1,0 +1,6 @@
+C:\Users\mi\RiderProjects\ConsoleApplication2\WarmUp\bin\Debug\WarmUp.exe
+C:\Users\mi\RiderProjects\ConsoleApplication2\WarmUp\bin\Debug\WarmUp.pdb
+C:\Users\mi\RiderProjects\ConsoleApplication2\WarmUp\obj\Debug\WarmUp.csproj.AssemblyReference.cache
+C:\Users\mi\RiderProjects\ConsoleApplication2\WarmUp\obj\Debug\WarmUp.csproj.CoreCompileInputs.cache
+C:\Users\mi\RiderProjects\ConsoleApplication2\WarmUp\obj\Debug\WarmUp.exe
+C:\Users\mi\RiderProjects\ConsoleApplication2\WarmUp\obj\Debug\WarmUp.pdb
